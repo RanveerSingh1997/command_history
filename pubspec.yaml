@@ -3,7 +3,8 @@ description: >-
   Generic immutable undo/redo ring for Dart. Type-safe CommandHistory<S>
   with Command<S> interface — no Flutter dependency, framework-agnostic.
 version: 0.1.0
-publish_to: none # remove this line to publish to pub.dev
+repository: https://github.com/RanveerSingh1997/command_history
+issue_tracker: https://github.com/RanveerSingh1997/command_history/issues
 
 environment:
   sdk: ^3.9.2
