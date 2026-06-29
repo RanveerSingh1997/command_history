@@ -263,6 +263,10 @@ class MyCommand implements Command<MyState> { ... }
 class MyCommand extends Command<MyState> { ... }
 ```
 
+## Changelog
+
+See [pub.dev/packages/command_history/changelog](https://pub.dev/packages/command_history/changelog) for the full version history.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
