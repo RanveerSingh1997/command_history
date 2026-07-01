@@ -12,3 +12,4 @@ library command_history;
 
 export 'src/command.dart';
 export 'src/command_history.dart';
+export 'src/commands.dart';

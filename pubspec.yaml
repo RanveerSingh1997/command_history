@@ -2,7 +2,7 @@ name: command_history
 description: >-
   Generic immutable undo/redo ring for Dart. Type-safe CommandHistory<S>
   with Command<S> — maxSize cap, undo/redo labels, value equality, no Flutter dependency.
-version: 0.2.0
+version: 0.4.0
 repository: https://github.com/RanveerSingh1997/command_history
 issue_tracker: https://github.com/RanveerSingh1997/command_history/issues
 
