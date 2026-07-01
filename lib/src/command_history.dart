@@ -200,7 +200,7 @@ final class CommandHistory<S> {
 
     // Attempt command merging with the previous command.
     if (_lastCommand != null) {
-      final merged = _lastCommand!.mergeWith(command);
+      final merged = _lastCommand.mergeWith(command);
       if (merged != null) {
         assert(
           _undoLabels.isNotEmpty,
